@@ -1,7 +1,7 @@
 # PRÉ-REQUISITOS
 
   • VOCÊ DEVE TER O NODE JS INSTALADO QUE PODE SER BAIXADO EM: https://nodejs.org.
-  
+
   • ALGUMA IDE (RECOMEDO VISUAL STUDIO CODE)
 
 
@@ -27,11 +27,15 @@
      "license": "ISC"
    }
 
-   >> **NOTA:** Deixe o nome do seu bot na zona "name" como algo bem simples, como o nome do seu bot, SEM LETRAS MAIÚSCULAS E ESPAÇOS!
+   >> **NOTA:** 
 
+   •  Para copiar abra esse md em sua ide.
+
+   •     Deixe o nome do seu bot na zona "name" como algo bem simples, como o nome do seu bot, SEM LETRAS MAIÚSCULAS E ESPAÇOS!
 
   • Execute o comando npm install;
-  • Após executar esse comando, um ficheiro package-lock.json. A partir deste momento, você pode instalar as packages todas que quiser com `npm install <package>`;
+
+  • Após executar esse comando, um ficheiro package-lock.json. A partir deste momento, você pode instalar as packages todas que quiser com `npm install <package>`
   
 
 
